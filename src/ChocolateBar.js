@@ -6,6 +6,7 @@ function ChocolateBar() {
       <div className="ChocolateBar">
         <h1>Node Chocolate</h1>
         <b>Out of Stock</b>
+        <br />
         <Link to="/">Go back</Link>
       </div>
     )

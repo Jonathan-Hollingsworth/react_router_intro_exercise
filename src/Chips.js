@@ -11,7 +11,9 @@ function Chips() {
       <div className="Chips">
         <h1>Chips: The Classic Choice</h1>
         <b>Bags Eaten: {bagsEaten}</b>
+        <br />
         <button onClick={eat}>Eat a bag</button>
+        <br />
         <Link to="/">Go back</Link>
       </div>
     )

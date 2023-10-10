@@ -6,6 +6,7 @@ function VendingMachine() {
       <div className="VendingMachine">
         <h1>Vending Machine</h1>
         <b>What would you like?</b>
+        <br />
         <Link to="/chips">Chips</Link>
         <Link to="/cola">Cola</Link>
         <Link to="/jerky">Jerky</Link>
