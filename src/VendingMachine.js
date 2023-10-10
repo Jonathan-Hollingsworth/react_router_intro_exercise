@@ -6,10 +6,10 @@ function VendingMachine() {
       <div className="VendingMachine">
         <h1>Vending Machine</h1>
         <b>What would you like?</b>
-        <Link exact to="/chips">Chips</Link>
-        <Link exact to="/cola">Cola</Link>
-        <Link exact to="/jerky">Jerky</Link>
-        <Link exact to="/chocolate-bar">Chocolate bar</Link>
+        <Link to="/chips">Chips</Link>
+        <Link to="/cola">Cola</Link>
+        <Link to="/jerky">Jerky</Link>
+        <Link to="/chocolate-bar">Chocolate bar</Link>
       </div>
     )
 }

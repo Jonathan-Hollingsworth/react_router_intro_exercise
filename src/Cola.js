@@ -6,7 +6,7 @@ function Cola() {
       <div className="Cola">
         <h1>JS Cola</h1>
         <b>The #1 Digital Refreshment</b>
-        <Link exact to="/">Go back</Link>
+        <Link to="/">Go back</Link>
       </div>
     )
 }

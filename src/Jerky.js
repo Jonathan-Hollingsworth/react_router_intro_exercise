@@ -12,7 +12,7 @@ function Jerky() {
         <h1>Beef Jerky: The Meat Lover's Chip</h1>
         <b>Pieces Eaten: {piecesEaten}</b>
         <button onClick={eat}>Eat a piece</button>
-        <Link exact to="/">Go back</Link>
+        <Link to="/">Go back</Link>
       </div>
     )
 }

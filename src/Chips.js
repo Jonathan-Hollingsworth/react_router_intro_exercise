@@ -12,7 +12,7 @@ function Chips() {
         <h1>Chips: The Classic Choice</h1>
         <b>Bags Eaten: {bagsEaten}</b>
         <button onClick={eat}>Eat a bag</button>
-        <Link exact to="/">Go back</Link>
+        <Link to="/">Go back</Link>
       </div>
     )
 }
